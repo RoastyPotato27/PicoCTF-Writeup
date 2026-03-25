@@ -63,6 +63,4 @@ Common tools and concepts featured in this repository:
 
 I am an aspiring ethical hacker, continuously learning and improving.  
 These writeups reflect my current understanding and may evolve over time.
----
 
-⭐ If you find this repository useful, consider giving it a star!
